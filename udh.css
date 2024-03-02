@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#282a35;
+}
+.ww{
+    box-sizing: border-box;
+    width: auto;
+    height: 80px;
+    background-color: white;
+    position: relative;
+}
+.p{
+    display: inline;
+    position: absolute;
+    
+}
+.tt{
+    position: absolute;
+    left: 1170px;
+    top: 15px;
+}
+.yy{
+    position: absolute;
+    left: 1100px;
+    top: 15px;
+}
+.rr{
+    width: 60px;
+    height: 20px;
+    position: absolute;
+    left: 1030px;
+    top: 15px;
+}
+.dd{
+    color: green;
+    margin-left: 15px;
+}
+.oo{
+    position: absolute;
+    left: 70px;
+    top: 15px;
+}
+.aa{
+    position: absolute;
+    left: 210px;
+    top: 15px;
+}
+.ss{
+    position: absolute;
+    left: 360px;
+    top: 15px;
+}
+.ff{
+    font-size: 110px;
+    color: white;
+    position: absolute;
+    left: 260px;
+    top:170px;
+}
+.gg{
+    color: white;
+    position: absolute;
+    left: 300px;
+    top:320px;
+}
+.hh{
+    width: 130px;
+    height: 25px;
+    background-color: #04aa6d;
+    color: white;
+    position: absolute;
+    left: 350px;
+    top:360px;
+    border-radius: 8px;
+    text-align: center;
+}
+.ll{
+    width: 130px;
+    height: 25px;
+    background-color:white;
+    color:black;
+    position: absolute;
+    left: 350px;
+    top:400px;
+    border-radius: 8px;
+    text-align: center;
+}
+.jj{
+    background-color:#04aa6d;
+    color: white;
+    display: inline;
+    position: absolute;
+    left: auto;
+    top: 15px;
+    left: 1270px;
+    text-align:center;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 70px;
+    height: 25px;
+}
+.zz{
+    width: 500px;
+    height: 340px;
+    background-color: rgba(255,255,255,.8);
+    position: absolute;
+    left: 800px;
+    top: 150px;
+    border-radius: 5px;
+}
+.cc{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.xx{
+    width: 470px;
+    height: 220px;
+    background-color: rgb(255,255,255);
+    position: absolute;
+    top: 60px;
+    left: 15px;
+    border-left-style: solid;
+    border-color: green;
+    border-width: 4px;
+    
+}
+.vv{
+    width: 130px;
+    height: 25px;
+    background-color: #04aa6d;
+    color: white;
+    position: absolute;
+    left: 15px;
+    top:300px;
+    border-radius: 8px;
+    text-align: center;
+}
